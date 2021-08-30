@@ -1,3 +1,2 @@
-
-config:
-  info: "master branch,springcluoud-config/config-prod.yml version=1"
+config: 
+  info: "master branch,springcluoud-config/config-dev.yml version=1"
